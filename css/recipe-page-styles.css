@@ -12,4 +12,6 @@ code,
 kbd,
 samp {
   background-color: #eaebe0;
+  border-radius: 4px;
+  padding: 0 4px;
 }
