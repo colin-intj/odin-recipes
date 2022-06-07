@@ -3,5 +3,7 @@ body {
 }
 
 img {
+  box-sizing: border-box;
+  border: 5px solid #eaebe0;
   max-width: 100%;
 }
