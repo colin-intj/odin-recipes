@@ -7,3 +7,9 @@ img {
   border: 5px solid #eaebe0;
   max-width: 100%;
 }
+
+code,
+kbd,
+samp {
+  background-color: #eaebe0;
+}
