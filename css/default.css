@@ -1,18 +1,18 @@
 body {
-  background-color: #cdd0b6;
+  background-color: #ebf5f9;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
   box-sizing: border-box;
-  border: 5px solid #eaebe0;
+  border: 5px solid #9fbcc6;
   max-width: 100%;
 }
 
 code,
 kbd,
 samp {
-  background-color: #eaebe0;
+  background-color: #cbdfe6;
   border-radius: 4px;
   padding: 0 4px;
 }
